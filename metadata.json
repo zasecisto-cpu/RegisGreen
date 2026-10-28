@@ -1,0 +1,6 @@
+{
+  "name": "Regis Green",
+  "description": "Správa městských včelstev pro obce, firmy a instituce v Moravskoslezském kraji.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
